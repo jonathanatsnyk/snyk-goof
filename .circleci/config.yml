@@ -34,7 +34,7 @@ jobs:
              fail-on-issues: false 
              monitor-on-build: true
              project: juice-shop-circleci
-             organization: jonathan.davis
+             organization: jonathan.davis-98m
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
